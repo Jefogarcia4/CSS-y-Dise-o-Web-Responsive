@@ -1,0 +1,6 @@
+echo "# CSS-y-Dise-o-Web-Responsive" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Jefogarcia4/CSS-y-Dise-o-Web-Responsive.git
+git push -u origin master
